@@ -1,0 +1,42 @@
+# General
+node_modules
+lib
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
+.bundle
+.project
+.pydevproject
+.directory
+.idea/
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.orig
+*~
+.directory
+*.swp
+test-results.xml
+coverage
+.nyc_output
+npm-debug.log
+public/data/mock
+
+# generated CSSs
+app/styles
+
+
+# generated Docs
+docs/
+
+
+# Python Bytecompiled for Behave BDD on ./automation/
+__pycache__/
+*.py[cod]
+pip-log.txt
+pip-delete-this-directory.txt
+page_load_time.txt

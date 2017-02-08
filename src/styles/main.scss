@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+pre {
+  background-color: #eee;
+  border: 1px solid #ddd;
+  overflow: hidden;
+  margin: 0;
+  padding: 15px;
+}
+
+pre code {
+  color: crimson;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 50px;
+  color: white;
+}
